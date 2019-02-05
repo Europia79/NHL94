@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.nhl94</groupId>
+        <artifactId>NHL94-parent</artifactId>
+        <version>parent</version>
+        <relativePath>../</relativePath>
+    </parent>
+    <groupId>com.nhl94.genesis</groupId>
+    <artifactId>NHL94-genesis</artifactId>
+    <version>genesis</version>
+    <packaging>pom</packaging>
+    <url>https://github.com/Europia79/NHL94/Genesis</url>
+    <modules>
+        <module>hacks/NHL94 - 3vs3</module>
+        <module>hacks/NHL94 - 1999</module>
+        <module>hacks/NHL94 - 2000</module>
+        <module>hacks/NHL94 - 2005</module>
+        <module>hacks/NHL94 - 2010</module>
+        <module>hacks/NHL94 - 2011</module>
+        <module>hacks/NHL94 - 2012</module>
+        <module>hacks/NHL94 - 2013</module>
+        <module>hacks/NHL94 - 2014</module>
+        <module>hacks/NHL94 - 2015</module>
+        <module>hacks/NHL94 - 2016</module>
+        <module>hacks/NHL94 - 2017</module>
+        <module>hacks/NHL94 - 2018</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>${maven.deploy.version}</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>

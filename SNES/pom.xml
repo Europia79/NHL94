@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.nhl94</groupId>
+        <artifactId>NHL94-parent</artifactId>
+        <version>parent</version>
+        <relativePath>../</relativePath>
+    </parent>
+    <groupId>com.nhl94.snes</groupId>
+    <artifactId>NHL94-snes</artifactId>
+    <version>snes</version>
+    <packaging>pom</packaging>
+    <url>https://github.com/Europia79/NHL94/SNES</url>
+    <modules>
+        <module>hacks/NHL94 - 3vs3</module>
+    </modules>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>${maven.deploy.version}</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
