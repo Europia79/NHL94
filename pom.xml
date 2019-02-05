@@ -18,7 +18,7 @@
     </properties>
     <modules>
         <module>Genesis</module>
-        <!-- <module>SNES</module> -->
+        <module>SNES</module>
     </modules>
     <repositories>
         <repository>
