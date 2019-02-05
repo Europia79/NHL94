@@ -5,10 +5,10 @@
     <game>NHL '94 (SNES)</game>
     <author>NHL94</author>
     <modifications>
-        <mod type="Graphics">true</mod>
+        <mod type="Graphics">false</mod>
         <mod type="Sound">false</mod>
-        <mod type="Levels">true</mod>
-        <mod type="Text">true</mod>
+        <mod type="Levels">false</mod>
+        <mod type="Text">false</mod>
         <mod type="Gameplay">true</mod>
         <mod type="Other">false</mod>
     </modifications>
