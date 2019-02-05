@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<general>
+    <title>NHL94 - 3vs3</title>
+    <category>Complete</category>
+    <game>NHL '94 (SNES)</game>
+    <author>NHL94</author>
+    <modifications>
+        <mod type="Graphics">true</mod>
+        <mod type="Sound">false</mod>
+        <mod type="Levels">true</mod>
+        <mod type="Text">true</mod>
+        <mod type="Gameplay">true</mod>
+        <mod type="Other">false</mod>
+    </modifications>
+</general>
+<file>
+    <version>1.1</version>
+    <releaseDate format="15 Dec 1998">23 Sep 2003</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/archives/NHL94%20-%203vs3.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/hack.xml</readme>
+    <format>No-Header (SNES)</format>
+</file>
+<screenshots>
+    <titleScreen>https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/images/titlescreen/NHL94%20-%203vs3.png</titleScreen>
+    <image1>https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/images/screenshot1.png</image1>
+    <image2>https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/images/screenshot2.png</image2>
+    <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/images/screenshot3.png</image3>
+    <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/hacks/NHL94%20-%203vs3/images/screenshot4.png</image4>
+</screenshots>
+<description>NHL94 3 on 3 hack.</description>
+<romInfo>
+Source file:
+size:  1048576
+CRC32: 42212A77
+MD5:  A93FFED8EA7198A8CD23D698933E2CD9
+SHA1: 10DCD21BE9C5542E82B0B94473BF5FF569B36CF5
+Hacked file:
+size:  1048576
+CRC32: 9C865F36
+MD5:  0F5F25E86F637E1A368F60B39B9E4584
+SHA1: 7F3AF746C610709F0EBE7CCD0497D83F8A638B27
+</romInfo>
+<credits>
+    <credit>
+        <name>Xstioph</name>
+        <type>hacking</type>
+        <description></description>
+    </credit>
+</credits>
