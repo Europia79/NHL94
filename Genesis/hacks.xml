@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<hacks>
+    <hack>hacks/NHL94 - 3vs3</hack>
+    <hack>hacks/NHL94 - 1999</hack>
+    <hack>hacks/NHL94 - 2000</hack>
+    <hack>hacks/NHL94 - 2005</hack>
+    <hack>hacks/NHL94 - 2010</hack>
+    <hack>hacks/NHL94 - 2011</hack>
+    <hack>hacks/NHL94 - 2012</hack>
+    <hack>hacks/NHL94 - 2013</hack>
+    <hack>hacks/NHL94 - 2014</hack>
+    <hack>hacks/NHL94 - 2015</hack>
+    <hack>hacks/NHL94 - 2016</hack>
+    <hack>hacks/NHL94 - 2017</hack>
+    <hack>hacks/NHL94 - 2018</hack>
+</hacks>
+<games system="Genesis">
+	<game name="NHL94 - 3vs3">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 3vs3.md" size="1048576" crc="BDCFA1E8" md5="2597b5a201f998fbb0f646ea91431e96" sha1="4022cd5ca40cb8ad05f6df47494e1de805f3a91a" status="verified"/>
+	</game>
+	<game name="NHL94 - 1999">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 1999.md" size="2097152" crc="9A33D1D3" md5="b197681a075723a89629b61b4ff9fa60" sha1="9f83eef0b423c020e0dde313ed8b8780d273ab58" status="verified"/>
+	</game>
+	<game name="NHL94 - 2000">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2000.md" size="2097152" crc="877C59D4" md5="b47a68109d581e2f61d702fe4ff1d519" sha1="5383a48f171cb420fcbf6b48ecda631647561196" status="verified"/>
+	</game>
+    <game name="NHL94 - 2009">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2009.md" size="2097152" crc="9D7AC63A" md5="b1c6fa088a481ca2850aa6932ea95d5e" sha1="a0db8f94307d9a94801f776f0f35be26e4500982" status="verified"/>
+	</game>
+    <game name="NHL94 - 2010">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2010.md" size="2097152" crc="AA504499" md5="55a47ee3c0f3f3bfae77066f6da87eaa" sha1="984803f02ccd1470d8005f1ca0b63913f10ec838" status="verified"/>
+	</game>
+    <game name="NHL94 - 2011">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2011.md" size="2097152" crc="23E7330F" md5="a778b63079d7d68b9699fd85e7ad3748" sha1="1524a88cd7356276ef4419a43d7c90438a495d16" status="verified"/>
+	</game>
+    <game name="NHL94 - 2012">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2012.md" size="2097152" crc="E12EB1C1" md5="22da164ce2f6bc072a7609e6593f0c3a" sha1="90d9a6d63e0ac622670240e96f9ad2786e2745bc" status="verified"/>
+	</game>
+    <game name="NHL94 - 2013">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2013.md" size="2097152" crc="9242A355" md5="0901a8a5c9ffc14d2e4e775c97558737" sha1="c699fd3b36e6d6e355e3c87a1eea456cac731d94" status="verified"/>
+	</game>
+    <game name="NHL94 - 2014">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2014.md" size="2097152" crc="C3A619F9" md5="a3a2855b2ae0c74b725256b3d9fe49f9" sha1="90103d2ffa9351c0966009f32ab6ba57e43f9783" status="verified"/>
+	</game>
+    <game name="NHL94 - 2015">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2015.md" size="2097152" crc="0F3C84FF" md5="ee0436fa75440db57cdeb9d18bc094c4" sha1="0a3bcd93fc645a7d47fd2700334406d25cd3365f" status="verified"/>
+	</game>
+    <game name="NHL94 - 2016">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2016.md" size="2097152" crc="9C9BC3D5" md5="fd104cc7c383cf32bac7291aa5607304" sha1="b82e1820747a836c709a0bee84067a64ef0ae470" status="verified"/>
+	</game>
+    <game name="NHL94 - 2017">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2017.md" size="2097152" crc="FD58A9EB" md5="51271331176e99abe0c836a1239e784c" sha1="fd265904a9d37a19d9026338c6f4821526f3a55c" status="verified"/>
+	</game>
+    <game name="NHL94 - 2018">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2018.md" size="2097152" crc="A07741C5" md5="681b8170f52676bb510033b365696455" sha1="5476dc7e984a09a4110d99e6081125b578f77484" status="verified"/>
+	</game>
+</games>

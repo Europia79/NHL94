@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<hacks>
+    <hack>hacks/NHL94 - 3vs3</hack>
+</hacks>
+<games system="SNES">
+	<game name="NHL94 - 3vs3">
+		<description>NHL94 - 3 on 3</description>
+		<rom name="NHL94 - 3vs3.smc" size="1048576" crc="9C865F36" md5="0F5F25E86F637E1A368F60B39B9E4584" sha1="7F3AF746C610709F0EBE7CCD0497D83F8A638B27" status="verified"/>
+	</game>
+</games>

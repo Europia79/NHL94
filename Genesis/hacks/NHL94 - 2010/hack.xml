@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<general>
+    <title>NHL94 - OISJDF</title>
+    <category>Complete</category>
+    <game>NHL '94 (GEN)</game>
+    <author>OISJDF</author>
+    <modifications>
+        <mod type="Graphics">true</mod>
+        <mod type="Sound">false</mod>
+        <mod type="Levels">true</mod>
+        <mod type="Text">true</mod>
+        <mod type="Gameplay">true</mod>
+        <mod type="Other">false</mod>
+    </modifications>
+</general>
+<file>
+    <version>OISJDF</version>
+    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
+    <filename type="url">OISJDF</filename>
+    <readme type="url">OISJDF</readme>
+    <format>BIN Format (GEN)</format>
+</file>
+<screenshots>
+    <titleScreen>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/titlescreen/NHL94%20-%202010.png</titleScreen>
+    <image1>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot1.png</image1>
+    <image2>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot2.png</image2>
+    <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot3.png</image3>
+    <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot4.png</image4>
+</screenshots>
+<description>OISJDF</description>
+<romInfo>
+Source file:
+size:  1048576
+CRC32: 9438F5DD
+MD5:  8356B3F0D091B9CC441E2FF8721AD063
+SHA1: 7B1489AB501258133BF03E5F0892B77D04312580
+Hacked file:
+size:  2097152
+CRC32: AA504499
+MD5:  55A47EE3C0F3F3BFAE77066F6DA87EAA
+SHA1: 984803F02CCD1470D8005F1CA0B63913F10EC838
+</romInfo>
+<credits>
+    <credit>
+        <name>OISJDF</name>
+        <type>hacking</type>
+        <description></description>
+    </credit>
+</credits>
