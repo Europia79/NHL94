@@ -13,6 +13,7 @@
     <hack>hacks/NHL94 - 2016</hack>
     <hack>hacks/NHL94 - 2017</hack>
     <hack>hacks/NHL94 - 2018</hack>
+    <hack>hacks/NHL94 - 2019</hack>
 </hacks>
 <games system="Genesis">
 	<game name="NHL94 - 3vs3">
@@ -66,5 +67,9 @@
     <game name="NHL94 - 2018">
 		<description>NHL 94 updated roster hack</description>
 		<rom name="NHL94 - 2018.md" size="2097152" crc="A07741C5" md5="681B8170F52676BB510033B365696455" sha1="5476DC7E984A09A4110D99E6081125B578F77484" status="verified"/>
+	</game>
+    <game name="NHL94 - 2019">
+		<description>NHL 94 updated roster hack</description>
+		<rom name="NHL94 - 2019.md" size="2097152" crc="6BDC1FC5" md5="D6F17ABBD47BF72C3D8EE9F9D73B9CBC" sha1="0D3147E4AEF2D743EB226DC05E97CF60DE0C3DA5" status="verified"/>
 	</game>
 </games>
