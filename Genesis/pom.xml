@@ -27,6 +27,7 @@
         <module>hacks/NHL94 - 2016</module>
         <module>hacks/NHL94 - 2017</module>
         <module>hacks/NHL94 - 2018</module>
+        <module>hacks/NHL94 - 2019</module>
     </modules>
     <build>
         <plugins>

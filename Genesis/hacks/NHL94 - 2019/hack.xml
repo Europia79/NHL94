@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<general>
+    <title>NHL94 - 2019</title>
+    <category>Complete</category>
+    <game>NHL '94 (GEN)</game>
+    <author>NHL94</author>
+    <modifications>
+        <mod type="Graphics">true</mod>
+        <mod type="Sound">false</mod>
+        <mod type="Levels">true</mod>
+        <mod type="Text">true</mod>
+        <mod type="Gameplay">true</mod>
+        <mod type="Other">false</mod>
+    </modifications>
+</general>
+<file>
+    <version>V3</version>
+    <releaseDate format="15 Dec 1998">9 Jan 2019</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%202019.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/hack.xml</readme>
+    <format>BIN Format (GEN)</format>
+</file>
+<screenshots>
+    <titleScreen>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/images/titlescreen/NHL94%20-%202019.png</titleScreen>
+    <image1>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/images/screenshot1.png</image1>
+    <image2>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/images/screenshot2.png</image2>
+    <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/images/screenshot3.png</image3>
+    <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202019/images/screenshot4.png</image4>
+</screenshots>
+<description>
+- Updated 32-team ROM V3 for 2018-19 season.
+- The 32nd team is the NHL'94 Hall of Fame team, with original NHL94 ratings!
+- Excel sheet with "Skip's ratings."
+- Continous OT.
+- 1 minute penalties (2 mins for injuries).
+- New announcer Kevin Weekes.
+- Weight bug fix.
+- Hot - Cold fix.
+- KNOWN BUG: The menu screen will freeze if the player cards begin to cycle for team #31 - Winnipeg. 
+- There is no known fix for this.
+</description>
+<romInfo>
+Source file (Original ROM):
+size:  1048576
+CRC32: 9438F5DD
+MD5:  8356B3F0D091B9CC441E2FF8721AD063
+SHA1: 7B1489AB501258133BF03E5F0892B77D04312580
+Output file (Hacked ROM):
+size:  2097152
+CRC32: A07741C5
+MD5:  681B8170F52676BB510033B365696455
+SHA1: 5476DC7E984A09A4110D99E6081125B578F77484
+</romInfo>
+<credits>
+    <credit>
+        <name>skip</name>
+        <type>hacking</type>
+        <description>Updated rosters for 2019.</description>
+        <link>https://forum.nhl94.com/index.php?/profile/7395-skip/</link>
+    </credit>
+    <credit>
+        <name>slapshot67</name>
+        <type>graphics</type>
+        <description>Updated teams, cards, & grahpics</description>
+        <link>https://forum.nhl94.com/index.php?/profile/292-slapshot67/</link>
+    </credit>
+</credits>
