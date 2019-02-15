@@ -3,7 +3,7 @@ clrmamepro (
     description "Romhacks of Super Nintendo / Super Famicom games"
 )
 game (
-    <game name="NHL94 - 3vs3">
+    name "NHL94 - 3vs3"
 	description "NHL94 - 3 on 3 Hack by Xstioph version (1.1)"
 	rom ( name "NHL94 - 3vs3.smc" size 1048576 crc 9C865F36 md5 0F5F25E86F637E1A368F60B39B9E4584 sha1 7F3AF746C610709F0EBE7CCD0497D83F8A638B27 )
 	patch "https://raw.githubusercontent.com/Europia79/NHL94/master/SNES/archives/NHL94%20-%203vs3.zip"
