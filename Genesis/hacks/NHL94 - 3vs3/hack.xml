@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 3vs3</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
-        <mod type="Graphics">true</mod>
+        <mod type="Graphics">false</mod>
         <mod type="Sound">false</mod>
-        <mod type="Levels">true</mod>
-        <mod type="Text">true</mod>
+        <mod type="Levels">false</mod>
+        <mod type="Text">false</mod>
         <mod type="Gameplay">true</mod>
         <mod type="Other">false</mod>
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>1.0</version>
+    <releaseDate format="15 Dec 1998">31 Mar 2006</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%203vs3.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%203vs3/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,7 +27,7 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%203vs3/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%203vs3/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>NHL94 - 3 on 3</description>
 <romInfo>
 Source file:
 size:  1048576

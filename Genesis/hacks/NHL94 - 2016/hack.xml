@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 2016</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
         <mod type="Graphics">true</mod>
         <mod type="Sound">false</mod>
@@ -14,10 +14,10 @@
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>V3</version>
+    <releaseDate format="15 Dec 1998">18 Oct 2015</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%202016.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202016/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,14 +27,21 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202016/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202016/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>
+V3 Update:
+- smoz hacks included:
+- Added hot/cold accuracy in the edit lines.
+- Players are now hot or cold in all categories rather than ratings all over the place.
+- Updated weight ratings.
+- Player excel file & game meta-data included.
+</description>
 <romInfo>
-Source file:
+Source file (Original ROM):
 size:  1048576
 CRC32: 9438F5DD
 MD5:  8356B3F0D091B9CC441E2FF8721AD063
 SHA1: 7B1489AB501258133BF03E5F0892B77D04312580
-Hacked file:
+Output file (Hacked ROM):
 size:  2097152
 CRC32: 9C9BC3D5
 MD5:  FD104CC7C383CF32BAC7291AA5607304
@@ -42,8 +49,27 @@ SHA1: B82E1820747A836C709A0BEE84067A64EF0AE470
 </romInfo>
 <credits>
     <credit>
-        <name>OISJDF</name>
+        <name>skip</name>
         <type>hacking</type>
-        <description></description>
+        <description>Updated rosters for 2015-16</description>
+        <link>https://forum.nhl94.com/index.php?/profile/7395-skip/</link>
+    </credit>
+    <credit>
+        <name>slapshot67</name>
+        <type>graphics</type>
+        <description>Updated teams, cards, & grahpics</description>
+        <link>https://forum.nhl94.com/index.php?/profile/292-slapshot67/</link>
+    </credit>
+    <credit>
+        <name>smozoma</name>
+        <type>hacking</type>
+        <description>Hot-Cold fix, 2nd Assist bug fix, Weight bug fix, Ratings formula</description>
+        <link>https://forum.nhl94.com/index.php?/profile/253-smozoma/</link>
+    </credit>
+    <credit>
+        <name>wboy</name>
+        <type>hacking</type>
+        <description>30 Team Template</description>
+        <link>https://forum.nhl94.com/index.php?/profile/11-wboy/</link>
     </credit>
 </credits>

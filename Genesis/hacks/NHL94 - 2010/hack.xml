@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 2010</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
         <mod type="Graphics">true</mod>
         <mod type="Sound">false</mod>
@@ -14,10 +14,10 @@
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>1.0</version>
+    <releaseDate format="15 Dec 1998">4 Oct 2009</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%202010.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,7 +27,7 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202010/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>Updated rosters.</description>
 <romInfo>
 Source file:
 size:  1048576
@@ -42,8 +42,15 @@ SHA1: 984803F02CCD1470D8005F1CA0B63913F10EC838
 </romInfo>
 <credits>
     <credit>
-        <name>OISJDF</name>
+        <name>mahavishnu</name>
         <type>hacking</type>
-        <description></description>
+        <description>Roster update & player stats</description>
+        <link>https://forum.nhl94.com/index.php?/profile/25-mahavishnu/</link>
+    </credit>
+    <credit>
+        <name>swos</name>
+        <type>graphics</type>
+        <description>grahpics udpate</description>
+        <link>https://forum.nhl94.com/index.php?/profile/19-swos/</link>
     </credit>
 </credits>

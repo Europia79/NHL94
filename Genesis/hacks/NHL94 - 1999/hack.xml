@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 1999</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
         <mod type="Graphics">true</mod>
         <mod type="Sound">false</mod>
@@ -14,10 +14,10 @@
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>V4</version>
+    <releaseDate format="15 Dec 1998">31 Mar 1999</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%201999.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%201999/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,7 +27,9 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%201999/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%201999/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>
+- Updated rosters.
+</description>
 <romInfo>
 Source file:
 size:  1048576
@@ -42,8 +44,15 @@ SHA1: 9F83EEF0B423C020E0DDE313ED8B8780D273AB58
 </romInfo>
 <credits>
     <credit>
-        <name>OISJDF</name>
+        <name>Naples39</name>
         <type>hacking</type>
-        <description></description>
+        <description>hacking</description>
+        <link>https://forum.nhl94.com/index.php?/profile/61-naples39/</link>
+    </credit>
+    <credit>
+        <name>wboy</name>
+        <type>hacking</type>
+        <description>30 Team Template</description>
+        <link>https://forum.nhl94.com/index.php?/profile/11-wboy/</link>
     </credit>
 </credits>

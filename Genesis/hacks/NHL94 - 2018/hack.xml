@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 2018</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
         <mod type="Graphics">true</mod>
         <mod type="Sound">false</mod>
@@ -14,10 +14,10 @@
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>1.0</version>
+    <releaseDate format="15 Dec 1998">8 Oct 2017</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%202018.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202018/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,14 +27,18 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202018/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202018/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>
+- 32-teams updated for 2017-18 season.
+- Weight bug is fixed (heavy guys are harder to knock down).
+- 1 minute penalties (2 min for injuries).
+</description>
 <romInfo>
-Source file:
+Source file (Original ROM):
 size:  1048576
 CRC32: 9438F5DD
 MD5:  8356B3F0D091B9CC441E2FF8721AD063
 SHA1: 7B1489AB501258133BF03E5F0892B77D04312580
-Hacked file:
+Output file (Hacked ROM):
 size:  2097152
 CRC32: A07741C5
 MD5:  681B8170F52676BB510033B365696455
@@ -42,8 +46,15 @@ SHA1: 5476DC7E984A09A4110D99E6081125B578F77484
 </romInfo>
 <credits>
     <credit>
-        <name>OISJDF</name>
+        <name>skip</name>
         <type>hacking</type>
-        <description></description>
+        <description>Updated rosters for 2017-18</description>
+        <link>https://forum.nhl94.com/index.php?/profile/7395-skip/</link>
+    </credit>
+    <credit>
+        <name>slapshot67</name>
+        <type>graphics</type>
+        <description>Updated teams, cards, & grahpics</description>
+        <link>https://forum.nhl94.com/index.php?/profile/292-slapshot67/</link>
     </credit>
 </credits>

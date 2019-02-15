@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <general>
-    <title>NHL94 - OISJDF</title>
+    <title>NHL94 - 2013</title>
     <category>Complete</category>
     <game>NHL '94 (GEN)</game>
-    <author>OISJDF</author>
+    <author>NHL94</author>
     <modifications>
         <mod type="Graphics">true</mod>
         <mod type="Sound">false</mod>
@@ -14,10 +14,10 @@
     </modifications>
 </general>
 <file>
-    <version>OISJDF</version>
-    <releaseDate format="15 Dec 1998">OISJDF</releaseDate>
-    <filename type="url">OISJDF</filename>
-    <readme type="url">OISJDF</readme>
+    <version>1.0</version>
+    <releaseDate format="15 Dec 1998">30 Apr 2013</releaseDate>
+    <filename type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/archives/NHL94%20-%202013.zip</filename>
+    <readme type="url">https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202013/hack.xml</readme>
     <format>BIN Format (GEN)</format>
 </file>
 <screenshots>
@@ -27,14 +27,33 @@
     <image3>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202013/images/screenshot3.png</image3>
     <image4>https://raw.githubusercontent.com/Europia79/NHL94/master/Genesis/hacks/NHL94%20-%202013/images/screenshot4.png</image4>
 </screenshots>
-<description>OISJDF</description>
+<description>
+- Updated rosters.
+- Playoff draws.
+- Goalie control with Y button.
+- New banners.
+- New rating system.
+- Checking multiplier adjustment.
+- Updated splash screens & text logo.
+- Updated helmets & jerseys.
+- Updated menu logos.
+- Updated ice logos.
+- Updated  player cards.
+- Updated timer logo.
+- Updated puck tiles.
+- Stick tape sprite patch.
+- Trapezoid patch.
+- Assist bug fix.
+- Hot+Cold fix.
+- Weight bug fix.
+</description>
 <romInfo>
-Source file:
+Source file (Original ROM):
 size:  1048576
 CRC32: 9438F5DD
 MD5:  8356B3F0D091B9CC441E2FF8721AD063
 SHA1: 7B1489AB501258133BF03E5F0892B77D04312580
-Hacked file:
+Output file (Hacked ROM):
 size:  2097152
 CRC32: 9242A355
 MD5:  0901A8A5C9FFC14D2E4E775C97558737
@@ -42,8 +61,45 @@ SHA1: C699FD3B36E6D6E355E3C87A1EEA456CAC731D94
 </romInfo>
 <credits>
     <credit>
-        <name>OISJDF</name>
+        <name>clockwise</name>
         <type>hacking</type>
-        <description></description>
+        <description>Player ratings, graphics, sprites, font, cards, trapazoid</description>
+        <link>https://forum.nhl94.com/index.php?/profile/194-clockwise/</link>
+    </credit>
+    <credit>
+        <name>wboy</name>
+        <type>hacking</type>
+        <description>30 Team Template</description>
+        <link>https://forum.nhl94.com/index.php?/profile/11-wboy/</link>
+    </credit>
+    <credit>
+        <name>smozoma</name>
+        <type>hacking</type>
+        <description>Hot-Cold fix, 2nd Assist bug fix, Weight bug fix, Ratings formula</description>
+        <link>https://forum.nhl94.com/index.php?/profile/253-smozoma/</link>
+    </credit>
+    <credit>
+        <name>Tony H.</name>
+        <type>hacking</type>
+        <description>checking multiplier</description>
+        <link>https://forum.nhl94.com/index.php?/profile/1144-tony-h/</link>
+    </credit>
+    <credit>
+        <name>Kaneda</name>
+        <type>hacking</type>
+        <description>Goalie control</description>
+        <link>http://gendev.spritesmind.net/page-home.html</link>
+    </credit>
+    <credit>
+        <name>swos</name>
+        <type>graphics</type>
+        <description>Rink bench</description>
+        <link>https://forum.nhl94.com/index.php?/profile/19-swos/</link>
+    </credit>
+    <credit>
+        <name>Drew</name>
+        <type>testing</type>
+        <description>testing</description>
+        <link>https://forum.nhl94.com/index.php?/profile/125-drew/</link>
     </credit>
 </credits>
